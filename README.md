@@ -98,4 +98,3 @@ MIT License
 
 - Inspired by Tech With Tim's tutorial
 - Powered by Ollama and Mistral LLM
-```
